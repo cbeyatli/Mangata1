@@ -1,0 +1,1 @@
+{  "name": "cagribeynode",  "website": "https://github.com/cbeyatli",  "description": "Node operator",  "logo": "https://i.ibb.co/dmNxpms/4173-s3-male-zoomed.png",  "twitter": "https://twitter.com/cagribey21"}
